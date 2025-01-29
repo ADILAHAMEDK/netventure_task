@@ -64,7 +64,7 @@ const Login = () => {
             </div>
             <button
               type="submit"
-              className="bg-black text-white px-2 py-1 rounded mb-4"
+              className="bg-black text-white px-2 py-1 rounded mb-4 w-full"
             >
               Login
             </button>
